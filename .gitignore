@@ -1,0 +1,7 @@
+build/
+dist/
+output/
+cleaned_output/
+*.csv
+__pycache__/
+*.pyc
