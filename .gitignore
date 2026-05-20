@@ -5,3 +5,4 @@ cleaned_output/
 *.csv
 __pycache__/
 *.pyc
+SESSION_SUMMARY_1.md
