@@ -124,7 +124,8 @@ csv-cleaner-tool/
 
 Built by **Anuj** — TY BBA-CA Student  
 Freelance developer specializing in Python automation, data tools, and web development.  
-📧 Available for hire on [Fiverr](https://fiverr.com) | [GitHub](https://github.com/Anuj230977)
+📧 anuj1230567@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anujjadhav) | [GitHub](https://github.com/Anuj230977)
 
 ---
 
